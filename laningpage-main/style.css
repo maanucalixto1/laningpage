@@ -1,0 +1,20 @@
+header{
+    background-color: rgb(234, 0, 255);
+}
+
+#produtos{
+    background-color: antiquewhite;
+    height: 700px;
+}
+#parceiros{
+    background-color: rgb(4, 71, 116);
+    height: 700px;
+}
+#hitoria{
+    background-color: rgb(188, 141, 233);
+    height: 700px;
+} 
+#cadastro{
+    background-color: rgb(112, 15, 15);
+    height: 700px;
+}
